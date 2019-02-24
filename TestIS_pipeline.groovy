@@ -1,3 +1,3 @@
 node {
-   git 'https://github.com/SoftwareAG/sagdevops-templates.git'
+    git 'https://github.com/SoftwareAG/sagdevops-templates.git'
 }
